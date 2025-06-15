@@ -173,7 +173,7 @@ elif selected == "Donate & Support":
     - Creating similar free health tech tools
 
     **Donate via PayPal:**  
-    [![Donate](dataquestsolutions2@gmail.com)]
+    [dataquestsolutions2@gmail.com]
 
     **Buy me a coffee:**  
     [Buy Me a Coffee ☕](https://www.buymeacoffee.com/Biosticianenoch)
