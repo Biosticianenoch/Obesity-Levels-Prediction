@@ -179,8 +179,8 @@ elif selected == "Donate & Support":
     [Buy Me a Coffee ☕](https://www.buymeacoffee.com/YOUR_USERNAME)
 
     **M-Pesa Paybill (Kenya):**  
-    - **Paybill:** 123456  
-    - **Account Number:** OBESITYAPP
+    - **Paybill:** 522522 
+    - **Account Number:** 1340849054
 
     Every donation, no matter how small, makes a difference ❤️  
     """)
