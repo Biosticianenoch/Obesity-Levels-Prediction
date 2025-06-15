@@ -173,7 +173,7 @@ elif selected == "Donate & Support":
     - Creating similar free health tech tools
 
     **Donate via PayPal:**  
-    [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID)
+    [![Donate](dataquestsolutions2@gmail.com)
 
     **Buy me a coffee:**  
     [Buy Me a Coffee ☕](https://www.buymeacoffee.com/Biosticianenoch)
