@@ -30,7 +30,7 @@ if 'counted' not in st.session_state:
 # ---------------- SIDEBAR MENU ----------------
 with st.sidebar:
     selected = option_menu("Main Menu", 
-                           ["Welcome", "Prediction", "Recommendation", "FAQ", "Disclaimer", "Analytics"], 
+                           ["Welcome", "Prediction", "Recommendation", "FAQ", "Disclaimer", "Analytics", "Donate & Support"], 
                            icons=['house', 'activity', 'heart', 'question-circle', 'exclamation-circle', 'bar-chart'],
                            menu_icon="cast", default_index=0)
 
@@ -161,7 +161,7 @@ elif selected == "Analytics":
     st.caption("Note: Data is stored locally in `visitor_data.pkl`. No external tracking involved.")
 
 # ---------------- DONATION PAGE ----------------
-elif selected == "Donate 💖":
+elif selected == "Donate & Support":
     st.markdown("<h2 style='text-align: center;'>💖 Support My Work</h2>", unsafe_allow_html=True)
 
     st.write("""
