@@ -159,3 +159,28 @@ elif selected == "Analytics":
         st.success("Visitor counter reset. Please refresh to see update.")
 
     st.caption("Note: Data is stored locally in `visitor_data.pkl`. No external tracking involved.")
+
+# ---------------- DONATION PAGE ----------------
+elif selected == "Donate 💖":
+    st.markdown("<h2 style='text-align: center;'>💖 Support My Work</h2>", unsafe_allow_html=True)
+
+    st.write("""
+    If you found this app helpful and would like to support its development and maintenance, consider donating 🙏
+
+    Your contribution will help in:
+    - Maintaining the hosting of this tool
+    - Enhancing features & user experience
+    - Creating similar free health tech tools
+
+    **Donate via PayPal:**  
+    [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID)
+
+    **Buy me a coffee:**  
+    [Buy Me a Coffee ☕](https://www.buymeacoffee.com/YOUR_USERNAME)
+
+    **M-Pesa Paybill (Kenya):**  
+    - **Paybill:** 123456  
+    - **Account Number:** OBESITYAPP
+
+    Every donation, no matter how small, makes a difference ❤️  
+    """)
