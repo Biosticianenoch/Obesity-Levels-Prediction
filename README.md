@@ -107,9 +107,9 @@ Always consult a licensed healthcare provider before making any health-related d
 
 ## 🧑‍💻 Author & Contact
 
-Created with ❤️ by [Your Name]  
-🔗 GitHub: [@YourUsername](https://github.com/YourUsername)  
-📧 Email: youremail@example.com
+Created with ❤️ by [Enock Bereka]  
+🔗 GitHub: [@Biosticianenoch](https://github.com/Biosticianenoch)  
+📧 Email: enochosenwafulah@gmail.com
 
 ---
 
