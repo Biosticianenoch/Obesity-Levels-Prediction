@@ -176,7 +176,7 @@ elif selected == "Donate & Support":
     [dataquestsolutions2@gmail.com]
 
     **Buy me a coffee:**  
-    [Buy Me a Coffee ☕](https://www.buymeacoffee.com/Biosticianenoch)
+    [Buy Me a Coffee ☕ +254701344230]
 
     **M-Pesa Paybill (Kenya):**  
     - **Paybill:** 522522 
