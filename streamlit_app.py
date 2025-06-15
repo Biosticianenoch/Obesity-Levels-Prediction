@@ -176,7 +176,7 @@ elif selected == "Donate & Support":
     [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID)
 
     **Buy me a coffee:**  
-    [Buy Me a Coffee ☕](https://www.buymeacoffee.com/YOUR_USERNAME)
+    [Buy Me a Coffee ☕](https://www.buymeacoffee.com/Biosticianenoch)
 
     **M-Pesa Paybill (Kenya):**  
     - **Paybill:** 522522 
