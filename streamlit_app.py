@@ -37,7 +37,6 @@ with st.sidebar:
 # ---------------- WELCOME PAGE ----------------
 if selected == "Welcome":
     st.markdown("<h1 style='text-align: center; color: crimson;'>🏥 Obesity Risk Classifier</h1>", unsafe_allow_html=True)
-    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMzYTBsNzB0OXE0aG84b2tkZzA2aGFscjhiOXlyemFhbmp1OXZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qh4sUO8gO0Pfy/giphy.gif", use_column_width=True)
     st.success(f"🎉 **Total Visitors:** {visitor_data['count']}")
     st.write("""
     This intelligent tool helps classify a person's obesity level using health and lifestyle inputs.
