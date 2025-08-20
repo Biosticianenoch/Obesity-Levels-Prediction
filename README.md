@@ -21,10 +21,6 @@
 
 ---
 
-## 📸 App Snapshot
-
-![App Screenshot](https://media.giphy.com/media/qh4sUO8gO0Pfy/giphy.gif)
-
 ---
 
 ## 🚀 How to Run the App
